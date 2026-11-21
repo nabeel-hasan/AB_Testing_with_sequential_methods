@@ -1,0 +1,14 @@
+/* Change the font family and size for the main document text */
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+/* Change font styling specifically for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
